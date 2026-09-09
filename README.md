@@ -73,15 +73,6 @@ O `index.html` reúne, em um único protótipo navegável, a landing page instit
 
 *Logística e Gestor/Diretoria já estão mapeados no sistema, mas ainda sem tela própria nesta fase — ver [`docs/template-de-cores.md`](docs/template-de-cores.md) e o [Manual do Usuário](manual/Manual-do-Usuario-TechTrace360.pdf) para o roadmap completo.*
 
-<p align="center">
-  <img src="docs/screenshots/login.png" width="420" alt="Tela de login" />
-  <img src="docs/screenshots/operador-cnc.png" width="420" alt="Operador CNC" />
-</p>
-<p align="center">
-  <img src="docs/screenshots/qualidade.png" width="420" alt="Qualidade" />
-  <img src="docs/screenshots/administrador.png" width="420" alt="Administrador" />
-</p>
-
 Um lote criado pelo Operador aparece automaticamente no Dashboard e no Rastreio do Administrador; a homologação (ou RNC) feita pela Qualidade atualiza esse mesmo status em tempo real — tudo em um único estado compartilhado (`js/state.js`), simulando a integração entre os módulos do sistema real.
 
 📘 **Documentação completa:** [Manual do Usuário (PDF)](manual/Manual-do-Usuario-TechTrace360.pdf) · [Mapa do Site](sitemap.html) · [Template de Cores](docs/template-de-cores.md)
