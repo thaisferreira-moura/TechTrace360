@@ -121,7 +121,7 @@ O projeto é **100% estático** (HTML, CSS e JavaScript puro) — não possui de
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/deivid-afonso/fatec-solutions.git
+git clone https://github.com/thaisferreira-moura/TechTrace360.git
 ```
 
 ### 2. Acesse a pasta
@@ -166,7 +166,7 @@ O site é estático, então o **GitHub Pages** publica o repositório sem nenhum
 Depois de publicado, o site fica disponível em:
 
 ```
-https://deivid-afonso.github.io/fatec-solutions/
+https://github.com/thaisferreira-moura/TechTrace360.git
 ```
 
 O workflow `.github/workflows/jekyll-docker.yml` já existente no repositório é apenas um **build de verificação (CI)** — ele não publica o site. Ele pode continuar rodando sem conflito com a publicação via Pages.
