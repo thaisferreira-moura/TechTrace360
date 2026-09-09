@@ -75,7 +75,7 @@ O `index.html` reúne, em um único protótipo navegável, a landing page instit
 
 Um lote criado pelo Operador aparece automaticamente no Dashboard e no Rastreio do Administrador; a homologação (ou RNC) feita pela Qualidade atualiza esse mesmo status em tempo real — tudo em um único estado compartilhado (`js/state.js`), simulando a integração entre os módulos do sistema real.
 
-📘 **Documentação completa:** [Manual do Usuário (PDF)](manual/Manual-do-Usuario-TechTrace360.pdf) · [Mapa do Site](sitemap.html) · [Template de Cores](docs/template-de-cores.md)
+📘 **Documentação completa:** [Manual do Usuário (PDF)](manual/Manual-do-Usuario-TechTrace360.pdf) · [Mapa do Site](sitemap.html) · [Template de Cores](identidade-visual-fatec-solutions.pdf)
 
 ---
 
