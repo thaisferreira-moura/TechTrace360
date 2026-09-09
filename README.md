@@ -25,7 +25,7 @@
 
 ## 📄 Descrição do entregável
 
-O **Fatec Solutions** é uma solução tecnológica desenvolvida durante o **Desafio de Ideias**, uma iniciativa realizada em parceria entre o **SENAI Diadema** e a **FATEC Diadema**.
+O **TechTrace 360** é uma solução tecnológica desenvolvida durante o **Desafio de Ideias**, uma iniciativa realizada em parceria entre o **SENAI Diadema** e a **FATEC Diadema**.
 
 O projeto tem como objetivo desenvolver uma solução para a **indústria automotiva**, buscando tornar os processos de controle de qualidade mais organizados, rastreáveis, digitais e eficientes. O entregável central é o **TechTrace 360**, um protótipo funcional de Sistema de Rastreabilidade Industrial (MES) para o caso de uso **TechParts Industrial**.
 
@@ -43,7 +43,7 @@ Entre os principais pontos trabalhados estão:
 
 ## 💻 Sobre o projeto
 
-O **Fatec Solutions** surgiu a partir do desafio de identificar problemas presentes no ambiente industrial e propor uma solução tecnológica capaz de gerar melhorias reais para os processos de uma empresa do setor automotivo.
+O **TechTrace 360** surgiu a partir do desafio de identificar problemas presentes no ambiente industrial e propor uma solução tecnológica capaz de gerar melhorias reais para os processos de uma empresa do setor automotivo.
 
 Durante o desenvolvimento do projeto, foram identificadas necessidades relacionadas ao **controle de qualidade, organização de informações, rastreabilidade e utilização excessiva de documentos físicos**.
 
